@@ -1,0 +1,49 @@
+body {
+    font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+  border-radius: 0;
+  border: 0; 
+}
+
+.navbar-brand {
+	float: left;
+    padding: 15px 15px;
+    vertical-align: middle;
+    font-size: 1.3em;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.Page-heading p {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#nav-list{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background: #f6b319;
+
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#grid-box {
+    margin: 20px;
+    padding: 15px;
+    height: 1000px;
+    background-color: lightgrey;
+}
+.row{
+	margin: 15px;
+}
+.row #Chickenmenu p {
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+}
